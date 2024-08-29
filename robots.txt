@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jomance.github.io/sitemap.html.gz
+Sitemap: https://jomance.github.io/app/sitemap.html.gz
+Sitemap: https://jomance.github.io/assets/sitemap.html.gz
+Sitemap: https://jomance.github.io/css/sitemap.html.gz
+Sitemap: https://jomance.github.io/includes/sitemap.html.gz
+Sitemap: https://jomance.github.io/item/sitemap.html.gz
+Sitemap: https://jomance.github.io/src/sitemap.html.gz
